@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T15:44:39.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Ck9rw09WRSfVcpm8X00m" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-14T16:04:00.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="oftSil4b30gshKO4vJET" version="15.5.4" type="github">
   <diagram id="Wd_oJn38wZUzVgSo89xS" name="Page-1">
     <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Гость&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="707.5" width="60" height="140" as="geometry" />
+          <mxGeometry x="520" y="707.5" width="60" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Клиент&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="410" width="60" height="140" as="geometry" />
+          <mxGeometry x="520" y="410" width="60" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-4" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_zqxxpLCkDMLm2a-AfCi-2" target="_zqxxpLCkDMLm2a-AfCi-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Администратор&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1020" width="60" height="140" as="geometry" />
+          <mxGeometry x="520" y="1000" width="60" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-15" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="pzFhs3liKInP-grsurP8-4" target="_zqxxpLCkDMLm2a-AfCi-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,13 +80,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-16" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Ведение данных&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1022.5" width="200" height="135" as="geometry" />
+          <mxGeometry x="700" y="1000" width="200" height="135" as="geometry" />
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-17" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Удаление, добавление, изменение товара, поставщиков, энециклопедии&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="940" width="210" height="135" as="geometry" />
+          <mxGeometry x="960" y="922.5" width="210" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="_zqxxpLCkDMLm2a-AfCi-18" value="Работа над всеми заказами и уведомлениями" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1090" width="210" height="135" as="geometry" />
+        <mxCell id="_zqxxpLCkDMLm2a-AfCi-18" value="Работа над всеми заказами и запросами" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="1070" width="210" height="135" as="geometry" />
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-19" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_zqxxpLCkDMLm2a-AfCi-14" target="_zqxxpLCkDMLm2a-AfCi-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-22" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="980" width="40" height="20" as="geometry" />
+          <mxGeometry x="900" y="975" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-23" style="edgeStyle=none;rounded=0;jumpStyle=none;jumpSize=21;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;startSize=19;endSize=20;strokeWidth=2;" parent="1" source="_zqxxpLCkDMLm2a-AfCi-18" target="_zqxxpLCkDMLm2a-AfCi-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_zqxxpLCkDMLm2a-AfCi-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="1160" width="40" height="20" as="geometry" />
+          <mxGeometry x="900" y="1140" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
