@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T18:55:19.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="VNxbhXnwS5jlFPwCLrg0" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T15:19:08.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="SKtdi0dnZf8zKX0aJ_rt" version="15.9.3" type="github">
   <diagram id="Wd_oJn38wZUzVgSo89xS" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="22gS27oRzTfj-EgKatDl-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;use-case&amp;nbsp;&lt;br&gt;Веб-приложения&lt;br&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=60;perimeterSpacing=0;shadow=0;fontFamily=GOST type A Regular;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;" parent="1" vertex="1">
-          <mxGeometry x="431" y="1421" width="1049" height="740" as="geometry" />
+          <mxGeometry x="431" y="1421" width="1049" height="727" as="geometry" />
         </mxCell>
         <mxCell id="22gS27oRzTfj-EgKatDl-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Пользователь&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=GOST type A Regular;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;" parent="1" vertex="1">
           <mxGeometry x="360" y="1757.5" width="60" height="140" as="geometry" />
