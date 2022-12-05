@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T15:55:38.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="0bAVFCMUftwMTb-jOYoU" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T15:57:26.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="kDiwE9qqsaWoH_yaVUhB" version="20.6.0" type="github">
   <diagram id="Wd_oJn38wZUzVgSo89xS" name="Page-1">
-    <mxGraphModel dx="2078" dy="953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,13 +160,14 @@
         <mxCell id="3QS9H70OiHH0bNNLxcRu-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Администратор&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=GOST type A Regular;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;" vertex="1" parent="1">
           <mxGeometry x="1874" y="689.5" width="60" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="3QS9H70OiHH0bNNLxcRu-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3QS9H70OiHH0bNNLxcRu-13" target="pzFhs3liKInP-grsurP8-4">
+        <mxCell id="3QS9H70OiHH0bNNLxcRu-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="3QS9H70OiHH0bNNLxcRu-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1028" y="1249" as="targetPoint" />
+            <mxPoint x="1182" y="1232" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1013" y="623" />
+              <mxPoint x="1004" y="623" />
               <mxPoint x="1053" y="623" />
-              <mxPoint x="1053" y="1119" />
+              <mxPoint x="1053" y="1261" />
+              <mxPoint x="1182" y="1261" />
             </Array>
           </mxGeometry>
         </mxCell>
